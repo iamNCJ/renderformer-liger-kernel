@@ -10,7 +10,7 @@ def apply_kernels(
     use_rms_norm: bool = True,
     use_swiglu: bool = True,
     use_rope: bool = True,
-    verbose: bool = True,
+    verbose: bool = False,
 ):
     """
     Apply the Liger kernels to the given module.
