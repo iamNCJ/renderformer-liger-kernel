@@ -7,7 +7,7 @@ Credit: https://github.com/linkedin/Liger-Kernel/
 You can install the package using pip:
 
 ```bash
-pip install git+https://github.com/yourusername/renderformer-liger-kernel.git
+pip install git+https://github.com/iamNCJ/renderformer-liger-kernel.git
 ```
 
 ## Acknowledgements
