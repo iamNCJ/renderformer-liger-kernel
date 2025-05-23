@@ -12,4 +12,4 @@ pip install git+https://github.com/iamNCJ/renderformer-liger-kernel.git
 
 ## Acknowledgements
 
-This project contains code originally from Liger‑Kernel © LinkedIn Corp., redistributed under the BSD 2‑Clause license.
+This project contains code originally from Liger‑Kernel © LinkedIn Corp., redistributed under the BSD 2‑Clause license.
